@@ -1,152 +1,301 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jing Peng",
+    "email": "jingpeng1022@gmail.com",
+    "phone": "+86 13589269236",
+    "website": "https://hellodaisy1022.github.io",
+    "summary": "Postdoctoral Research Associate at University of Notre Dame",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "246 Flanner Hall",
+      "postalCode": "46556",
+      "city": "Notre Dame",
       "countryCode": "US",
-      "region": ""
+      "region": "Indiana"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Jing Peng",
+        "url": "https://scholar.google.com/citations?user=xsK8vKkAAAAJ&hl=en"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hellodaisy1022",
+        "url": "https://github.com/hellodaisy1022"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "University of Notre Dame",
+      "position": "Postdoctoral Research Associate",
+      "url": "https://lucyinstitute.nd.edu/centers-and-labs/nhealth-equity-data-lab-hedl/",
+      "startDate": "2024-08",
+      "endDate": "2025-08",
+      "summary": "Health Equity Data Lab at the Lucy Family Institute for Data & Society",
+      "highlights": [
+        "Leading research on Indigenous cancer disparities among American Indian and Alaska Native Medicare beneficiaries",
+        "Analyzing health equity content in county government websites using large language models",
+        "Investigating political determinants of health and healthcare resource distribution"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Florida State University",
+      "area": "Public Administration",
+      "studyType": "Ph.D.",
+      "startDate": "2018",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": [],
+      "summary": "Dissertation: Determinants of Health Disparities in the COVID-19 Pandemic from the Perspective of Social and Governmental Responsiveness. Committee: Drs. Frances Berry, Tian Tang, Kaifeng Yang, James Wright, Tingting Zhao"
+    },
+    {
+      "institution": "Florida State University",
+      "area": "Public Administration",
+      "studyType": "M.P.A.",
+      "startDate": "2017",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Huazhong University of Science and Technology",
+      "area": "Public Administration",
+      "studyType": "B.A.",
+      "startDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Statistical Software",
+      "keywords": ["R", "Stata"]
+    },
+    {
+      "name": "Research Tools",
+      "keywords": ["Qualtrics", "GIS"]
+    },
+    {
+      "name": "Technical Skills",
+      "keywords": ["LaTeX", "Data Analysis", "Large Language Models"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Political Determinants of Health"
+    },
+    {
+      "name": "Social Capital"
+    },
+    {
+      "name": "Local Government"
+    },
+    {
+      "name": "Health Equity and Inequality"
+    }
+  ],
+  "references": [
+    {
+      "name": "Frances Stokes Berry",
+      "reference": "Askew Eminent Scholar and Frank Sherwood Professor, Florida State University. Email: fberry@fsu.edu"
+    },
+    {
+      "name": "Kaifeng Yang",
+      "reference": "Professor and Dean, School of Public Affairs and Administration, Rutgers University–Newark. Email: kaifeng.yang@rutgers.edu"
+    },
+    {
+      "name": "Hongtao Yi",
+      "reference": "Professor, Askew School of Public Administration, Florida State University. Email: h.yi@fsu.edu"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Social Equity Amid COVID-19: Examining Health Disparities from the Perspective of Governmental and Social Responsiveness",
+      "publisher": "The American Review of Public Administration",
+      "releaseDate": "2025-01-01",
+      "website": "https://doi.org/10.1177/02750740241284601",
+      "summary": "Peng, J., Yang, K., & Chu, M. (2025). 55(1), 65-83."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Incentivizing Recycling in Local Governments: the Moderating Role of Fiscal Conditions in the Adoption of Pay-As-You-Throw Recycling Programs",
+      "publisher": "Chinese Public Administration Review",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.1177/15396754241279412",
+      "summary": "Peng, J., & Yi, H. (2024). 15(4), 241-252."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Fragmented Communities: How Polarization and Segregation Moderate Impact of Social Capital on Health and Health Equity",
+      "event": "Public Management Research Conference (PMRC)",
+      "date": "2025-06-01",
+      "location": "TBD",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Forms of Government Matter: Exploring the Political Determinants of Health Disparities from the Perspectives of Governmental Responsiveness",
+      "event": "Public Management Research Conference (PMRC)",
+      "date": "2024-06-01",
+      "location": "TBD",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Racialized Social Capital? Clarifying the Role of Social Capital in Racial Disparities regarding COVID-19 Mortality",
+      "event": "Public Management Research Conference (PMRC)",
+      "date": "2023-06-01",
+      "location": "TBD",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Social Equity amid COVID-19: Examining Health Disparities from the Perspective of Social and Governmental Responsiveness",
+      "event": "Association of Public Policy Analysis and Management",
+      "date": "2022-11-01",
+      "location": "TBD",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Public Administration in American Society",
+      "institution": "Florida State University",
+      "date": "2023-08-01",
+      "role": "Instructor of Record",
+      "description": "Fall 2021, Spring 2022, Spring 2023, Fall 2023"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Public Administration in American Society (Online)",
+      "institution": "Florida State University",
+      "date": "2022-08-01",
+      "role": "Instructor of Record",
+      "description": "Fall 2022, 188 students"
+    },
+    {
+      "course": "Quantitative Analysis in Public Administration (Online)",
+      "institution": "Florida State University",
+      "date": "2021-01-01",
+      "role": "Teaching Assistant",
+      "description": "Fall 2020, Spring 2021"
+    },
+    {
+      "course": "The Profession of Public Administration (Online)",
+      "institution": "Florida State University",
+      "date": "2020-01-01",
+      "role": "Teaching Assistant",
+      "description": "Spring 2020"
+    },
+    {
+      "course": "Public Service Ethics (Online)",
+      "institution": "Florida State University",
+      "date": "2020-01-01",
+      "role": "Teaching Assistant",
+      "description": "Spring 2020"
+    },
+    {
+      "course": "Research Design in Public Administration (Online)",
+      "institution": "Florida State University",
+      "date": "2020-01-01",
+      "role": "Teaching Assistant",
+      "description": "Fall 2019, Spring 2020"
+    },
+    {
+      "course": "Public Organization (Online)",
+      "institution": "Florida State University",
+      "date": "2019-01-01",
+      "role": "Teaching Assistant",
+      "description": "Spring 2019"
     }
   ],
-  "portfolio": [
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Oral Presentation Award at BIPH Annual Symposium 2025",
+      "date": "2025",
+      "awarder": "University of Notre Dame",
+      "summary": "$75"
+    },
+    {
+      "title": "CERTIFICATE: Striving for Excellence in College and University Teaching",
+      "date": "2025",
+      "awarder": "University of Notre Dame",
+      "summary": ""
+    },
+    {
+      "title": "Meier PMRC Travel Inclusion Award",
+      "date": "2023",
+      "awarder": "Public Management Research Association",
+      "summary": "$500"
+    },
+    {
+      "title": "UROP Mentor Materials Grant Funding",
+      "date": "2024",
+      "awarder": "Florida State University",
+      "summary": "$500 - Structures of Government Matter: Exploring Their Impacts on Budget and Criminal Justice"
+    },
+    {
+      "title": "Graduate Assistantship",
+      "date": "2018-2024",
+      "awarder": "Florida State University",
+      "summary": ""
+    },
+    {
+      "title": "Summer Teaching Assistantship",
+      "date": "2021",
+      "awarder": "Florida State University, Askew School",
+      "summary": ""
+    },
+    {
+      "title": "Department Travel Grant",
+      "date": "2022-2024",
+      "awarder": "Florida State University, Askew School",
+      "summary": "$3,350"
+    },
+    {
+      "title": "Conference Presentation Support Grant",
+      "date": "2022-2023",
+      "awarder": "Florida State University, Graduate School",
+      "summary": "$600"
+    },
+    {
+      "title": "Outstanding Scholarship",
+      "date": "2013-2015",
+      "awarder": "Huazhong University of Science and Technology",
+      "summary": ""
+    }
+  ],
+  "service": [
+    {
+      "organization": "Public Performance and Management Review",
+      "position": "Reviewer",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Peer review for academic journal"
+    },
+    {
+      "organization": "Florida Guardian ad Litem Program",
+      "position": "Program Analyst",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Responsible for leading the performance evaluation"
+    },
+    {
+      "organization": "Center for Global Engagement, Florida State University",
+      "position": "Global Ambassador",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Services to Communities"
     }
   ]
 }
