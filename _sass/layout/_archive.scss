@@ -84,6 +84,10 @@
   }
 }
 
+.archive__item--no-link:hover .archive__item-title {
+  text-decoration: none;
+}
+
 
 /*
    List view
