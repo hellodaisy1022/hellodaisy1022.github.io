@@ -34,7 +34,7 @@ redirect_from:
 <ul>
   <li><strong>The Burden of Doubly-Divided Communities: The Impact of Political Polarization and Racial Segregation on Depression among U.S. Medicare Beneficiaries</strong> — <em>Writing Manuscript</em></li>
   <li><strong>What Drives Hate Crime? Investigating the Roots of Bias-Motivated Violence</strong> — <em>Data Analysis and Literature Review</em></li>
-  <li><strong>Political Determinants of Indigenous Health Disparities: Unequal Distribution of Healthcare Resources by Purchased/Referred Care Delivery Areas</strong> — <em>Data Cleaning</em></li>
+  <li><strong>Political Determinants of Indigenous Health Disparities: Unequal Distribution of Healthcare Resources by <a href="https://www.ihs.gov/prc/eligibility/requirements-purchased-referred-care-prc-delivery-areas/">Purchased/Referred Care Delivery Areas</a></strong> — <em>Data Cleaning</em></li>
   <li><strong>Racialized Social Capital? Clarifying the Role of Social Capital in Health Disparities</strong> — <em>Data Collection</em></li>
   <li><strong>Forms of Government Matter: Exploring the Political Determinants of Health</strong> — <em>Data Collection</em></li>
 </ul>
@@ -48,12 +48,35 @@ redirect_from:
       <li><strong>Human-AI Alignment</strong>: Comparing AI and Human-Labeled Data in Public Values Analysis</li>
       <li><strong>Public Services Innovation</strong>: Developing AI-powered Interactive Tools for Public Engagement and Service Access</li>
     </ul>
+    <div style="margin-top: 1em; text-align: center;">
+      <div style="margin-bottom: 0.5em; text-align: center;"><strong>Database Construction</strong></div>
+      <pre style="display: inline-block; padding: 1em; margin: 0; background: var(--global-bg-color); border: 1px solid var(--global-border-color); border-radius: 4px; overflow-x: auto; font-size: 0.85em; text-align: left;">PHASE 1: DISCOVERY          PHASE 2: EXTRACTION           PHASE 3: STRUCTURING
+┌──────────────────┐        ┌────────────────────┐        ┌─────────────────────┐
+│ Find Maternal    │   ──▶  │ Fetch Program      │   ──▶  │ LLM → Structured    │
+│ Health Pages     │        │ Page Content       │        │ CSV Output          │
+│ (WIC, BIH, NFP)  │        │ (text, contacts)   │        │                     │
+└──────────────────┘        └────────────────────┘        └─────────────────────┘</pre>
+    </div>
   </li>
   <li><strong>Can Machines Theorize? Bridging Computational Discovery and Theory Development</strong>
     <ul>
       <li>Social Science Application: Automatic Moderator Discovery via SHAP Interaction Values</li>
       <li>Computer Science Question: Understanding the Epistemic Limits of LLMs in Theorizing</li>
     </ul>
+    <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em; justify-content: center; align-items: flex-start;">
+      <div style="flex: 1; min-width: 280px; display: flex; flex-direction: column; align-items: center;">
+        <div style="height: 350px; display: flex; align-items: center; justify-content: center;">
+          <img src="{{ base_path }}/images/can-machines-theorize-fig1.png" alt="Marginal effects of the interaction terms" style="max-height: 350px; max-width: 100%; width: auto; object-fit: contain;">
+        </div>
+        <p style="font-size: 0.9em; font-style: italic; margin-top: 0.5em;">Marginal effects of the interaction terms</p>
+      </div>
+      <div style="flex: 1; min-width: 280px; display: flex; flex-direction: column; align-items: center;">
+        <div style="height: 350px; display: flex; align-items: center; justify-content: center;">
+          <img src="{{ base_path }}/images/can-machines-theorize-fig2.png" alt="SHAP interaction values" style="max-height: 350px; max-width: 100%; width: auto; object-fit: contain;">
+        </div>
+        <p style="font-size: 0.9em; font-style: italic; margin-top: 0.5em;">SHAP interaction values</p>
+      </div>
+    </div>
   </li>
 </ul>
 

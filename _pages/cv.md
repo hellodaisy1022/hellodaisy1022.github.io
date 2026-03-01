@@ -62,7 +62,7 @@ Working Papers
 
 * **What Drives Hate Crime? Investigating the Roots of Bias-Motivated Violence** | Data Analysis and Literature Review
 
-* **Political Determinants of Indigenous Health Disparities: Unequal Distribution of Healthcare Resources by Purchased/Referred Care Delivery Areas** | Data Cleaning
+* **Political Determinants of Indigenous Health Disparities: Unequal Distribution of Healthcare Resources by [Purchased/Referred Care Delivery Areas](https://www.ihs.gov/prc/eligibility/requirements-purchased-referred-care-prc-delivery-areas/)** | Data Cleaning
 
 * **Racialized Social Capital? Clarifying the Role of Social Capital in Health Disparities** | Data Collection
 

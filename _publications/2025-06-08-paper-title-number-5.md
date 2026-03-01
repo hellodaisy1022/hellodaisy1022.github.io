@@ -3,7 +3,9 @@ title: "Social Equity Amid COVID-19: Examining Health Disparities from the Persp
 collection: publications
 category: manuscripts
 permalink: /publication/2025-social-equity-covid19
-excerpt: 'This paper examines health disparities during the COVID-19 pandemic through the lens of governmental and social responsiveness.'
+figures:
+  - image: 2025-arpa-hypothesis-table.png
+    caption: "Table: Summary of Hypothesis Testing Results."
 date: 2025-01-01
 venue: 'The American Review of Public Administration'
 paperurl: 'https://doi.org/10.1177/02750740241284601'

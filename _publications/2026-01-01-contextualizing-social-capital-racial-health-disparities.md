@@ -3,7 +3,11 @@ title: "Contextualizing the Effect of Community Social Capital on Racial Health 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-contextualizing-social-capital-racial-health
-excerpt: 'This paper examines how racial segregation and citizen ideology moderate the effect of community social capital on racial health disparities.'
+figures:
+  - image: 2026-par-segregation-fig.png
+    caption: "The marginal effect of social capital: Racial segregation as moderator. (a) Marginal effect plot_white flu vaccine rate. (b) Marginal effect plot_black flu vaccine rate. (c) Marginal effect plot_flu vaccine gap."
+  - image: 2026-par-ideology-fig.png
+    caption: "The marginal effect of social capital: Citizen ideology as moderator. (a) Marginal effect plot_white flu vaccine rate. (b) Marginal effect plot_black flu vaccine rate. (c) Marginal effect plot_flu vaccine gap."
 date: 2026-01-01
 venue: 'Public Administration Review'
 paperurl: 'https://doi.org/10.1111/puar.70101'

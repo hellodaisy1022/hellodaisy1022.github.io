@@ -3,7 +3,10 @@ title: "Incentivizing Recycling in Local Governments: the Moderating Role of Fis
 collection: publications
 category: manuscripts
 permalink: /publication/2024-recycling-payt
-excerpt: 'This paper examines how fiscal conditions moderate the adoption of Pay-As-You-Throw recycling programs in local governments.'
+figures:
+  - image: 2024-cpar-marginal-effects-fig.png
+    caption: "Marginal effects of the interaction terms"
+    width: "60%"
 date: 2024-12-01
 venue: 'Chinese Public Administration Review'
 paperurl: 'https://doi.org/10.1177/15396754241279412'
